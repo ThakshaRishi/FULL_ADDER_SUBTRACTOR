@@ -47,6 +47,7 @@ Borrow out = A'Bin + A'B + BBin
 ![image](https://github.com/ThakshaRishi/FULL_ADDER_SUBTRACTOR/assets/144870423/edc20060-a3b8-4b73-855d-f58018c1519c)
 
 **Procedure**
+
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
